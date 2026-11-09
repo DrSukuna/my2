@@ -1,0 +1,6 @@
+{
+  "name": "Hoque Saheb | 3D Interactive Portfolio & AI Companion",
+  "description": "Ultra-immersive 3D developer portfolio of Hoque Saheb featuring intelligent AI companion, real-time analytics, biometric vault, and offline synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
